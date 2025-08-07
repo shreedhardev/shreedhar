@@ -3,8 +3,17 @@ how are you shreedhar
 
 hello world bro
 day 3
+<<<<<<< HEAD
+New line
+=======
 New line
 
 day 4 commit
+<<<<<<< HEAD
+>>>>>>> e2330471243b213cd6b1ac24bf8447556bff613b
+=======
+secomd commit
+>>>>>>> master
+
 git 1
 git 2

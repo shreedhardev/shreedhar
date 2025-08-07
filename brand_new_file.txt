@@ -6,3 +6,5 @@ day 3
 New line
 
 day 4 commit
+git 1
+git 2
